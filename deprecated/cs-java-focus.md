@@ -23,7 +23,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Project: [Google Code Jam 2008 - Qualification Round (language of your choice)](https://code.google.com/codejam/past-contests)
-* [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
+* [X] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 * [ ] Project: [Google Code Jam 2009 - Qualification Round (language of your choice)](https://code.google.com/codejam/past-contests)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
