@@ -38,7 +38,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: [Google Code Jam 2009 - Round 1A (language of your choice)](https://code.google.com/codejam/past-contests)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Project: [Google Code Jam 2010 - Round 1A (language of your choice)](https://code.google.com/codejam/past-contests)
-* [ ] Book: [Introducing Java 8](http://www.oreilly.com/programming/free/introducing-java-8.csp)
+* [X] Book: [Introducing Java 8](http://www.oreilly.com/programming/free/introducing-java-8.csp)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 * [ ] Project: [Google Code Jam 2011 - Round 1A (language of your choice)](https://code.google.com/codejam/past-contests)
 * [ ] Project: [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html) Work through all of the tutorials
